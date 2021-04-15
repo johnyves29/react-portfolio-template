@@ -1,6 +1,6 @@
 # Clever Programmer ReactJS Portfolio Template      
 
-## <a href="https://johnyvesmarin.netlify.app/">LIVE DEMO</a>
+## <a href="https://johnyvesmarin29.netlify.app/">LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
