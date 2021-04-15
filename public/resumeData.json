@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "John Yves Marin",
+    "occupation": "Junior Frontend Developer",
+    "description": "I love making awesome applications and appealing websites.",
+    "image": "profile.jpeg",
+    "bio": "My name is John Yves, I'm a Junior Frontend Developer. I developed several web-based applications using HTML, CSS, Javascript, Bootstrap and MEAN STACK.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "johnyvesmarin@gmail.com",
+    "phone": "+639 09355 7033",
+    "address": {
+      "street": "114 Cadena de Amor Street",
+      "city": "Malolos",
+      "state": "PH",
+      "zip": "3000"
+    },
+    "website": "http://www.johnyvesmarin.ga",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/johnyves.marin",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/john-yves-marin-7b07a5165/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/johnyvesmarin/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/johnyves29",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are my skills.",
+    "education": [
+      {
+        "school": "La Verdad Christian College",
+        "degree": "Bachelor of Science in Information System",
+        "graduated": "March 2018",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Mnk.Soft Software Development",
+        "title": "Team Member && Junior Frontend Developer",
+        "years": "April 2019 - Present",
+        "description": "Making Web Applications and Websites. Maintainance and Manage changes about client requests."
+      },
+      {
+        "company": "Codeeric IT Solutions",
+        "title": "Junior Web / Game Developer",
+        "years": "May 2018 - Feb 2019",
+        "description": "Making sure that the Web Application are responsive and user friendly. Develop and code web apps. Unity 3D and VR Game Dev."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MEAN Stack Workboard.ph",
+        "category": "ERP Software built with MEAN (MongoDB, ExpressJS, AngularJS, NodeJS)",
+        "image": "erp.png",
+        "url": "https://workboard.ph/"
+      },
+      {
+        "title": "MEAN Stack MNK Website",
+        "category": "MNK Website built with MEAN (MongoDB, ExpressJS, AngularJS, NodeJS)",
+        "image": "mnk.png",
+        "url": "https://mnksoft.com.ph/"
+      },
+      {
+        "title": "Codesigner",
+        "category": "Codesigner built with MEAN (MongoDB, ExpressJS, AngularJS, NodeJS)",
+        "image": "codesigner.png",
+        "url": "https://codesigner.com.ph/"
+      },
+      {
+        "title": "CE Online Classroom",
+        "category": "built with laravel PHP",
+        "image": "onlineclassroom.JPG",
+        "url": "https://codesigner.com.ph/"
+      },
+      {
+        "title": "Philippine Daily News Platform",
+        "category": "built with YII PHP",
+        "image": "phdaily.JPG",
+        "url": ""
+      },
+      {
+        "title": "JOS Website",
+        "category": "built with Wordpress",
+        "image": "Jos.JPG",
+        "url": ""
+      },
+      {
+        "title": "ETC 23 Website",
+        "category": "built with Wordpress",
+        "image": "etc23.JPG",
+        "url": ""
+      },
+      {
+        "title": "LVCC Website",
+        "category": "built with WIX",
+        "image": "LVCC-WEB.JPG",
+        "url": ""
+      },
+      {
+        "title": "LVCC Facult Evaluation System",
+        "category": "built with Laravel PHP",
+        "image": "LVCC-FES.png",
+        "url": ""
+      },
+      {
+        "title": "LVCC Podcast",
+        "category": "built with PHP",
+        "image": "podcast.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "He is very approachable and he makes the application updated and working well.",
+        "user": "Ms. A (Client)"
+      },
+      {
+        "text": "He is a passionate and hardworking developer. I like his attitude and perseverance as a team member.",
+        "user": "Mnk.Soft Team Leader"
+      }
+    ]
+  }
+}
